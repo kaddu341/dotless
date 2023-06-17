@@ -29,4 +29,3 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
-**THIS IS A TEST**
