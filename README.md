@@ -15,9 +15,8 @@ The original Arabic script did not use dots to differentiate between letters. Fo
 
 ## Specifications
 Technical specifications will be refined as we move on with the project In Shaa Allah, but for now:
-- App Dev: Android Studio
-- AI Engine: Google Cloud Platform AI tools
-- Programming Languages: Kotlin/Java and Python
+- App Dev & UI: Android Studio w/ Kotlin/Java
+- ML model: Python, using TensorFlow and Keras
 
 ## Milestones
 1. **Idea:** Through “Design Thinking”, produce a mockup and validate the concept.
