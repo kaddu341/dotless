@@ -25,6 +25,6 @@ Technical specifications will be refined as we move on with the project In Shaa 
 4. **Test:** Test the App.
 5. **Deploy:** Put App on Google Play for the whole world to access.
 6. **iOS:** Using lessons learned, make a version for iOS devices as well
-7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
+7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etcetera.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
