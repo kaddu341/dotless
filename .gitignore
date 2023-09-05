@@ -35,3 +35,5 @@ google-services.json
 env/
 ar.txt
 ar-arrow-datasets/
+clean-arrow-datasets/
+Models/arabic-wordlist-1.6.txt
