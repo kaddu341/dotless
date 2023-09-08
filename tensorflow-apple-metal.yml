@@ -1,0 +1,20 @@
+name: tensorflow_igloo
+channels:
+  - apple
+  - conda-forge
+dependencies:
+    - python=3.11
+    - pip>=23
+    - jupyter
+    - scikit-learn
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - numpy
+    - pillow
+    - requests
+    - ipykernel
+    - pip:
+        - tensorflow
+        - tensorflow-metal
+        - kaggle
