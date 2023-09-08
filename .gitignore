@@ -31,3 +31,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+#local repo files to ignore
+.DS_Store
+.vscode
