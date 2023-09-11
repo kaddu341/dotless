@@ -35,9 +35,17 @@ google-services.json
 env/
 ar.txt
 ar-arrow-datasets/
-clean-arrow-datasets/
+AR-dotless-small-arrow/
+AR-dotless-medium-arrow/
+AR-dotless-mediumPlus-arrow/
+
+AR-dotless-large-arrow/
+
 Models/arabic-wordlist-1.6.txt
 
 sequence2sequence.ipynb
 clean_vocab.txt
 dotless_vocab.txt
+
+AR-dotless-dotless-tokenizer/
+AR-dotless-clean-tokenizer/
