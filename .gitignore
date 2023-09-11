@@ -37,3 +37,7 @@ ar.txt
 ar-arrow-datasets/
 clean-arrow-datasets/
 Models/arabic-wordlist-1.6.txt
+
+sequence2sequence.ipynb
+clean_vocab.txt
+dotless_vocab.txt
