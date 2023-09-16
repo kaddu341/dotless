@@ -50,5 +50,6 @@ dotless_vocab.txt
 AR-dotless-dotless-tokenizer/
 AR-dotless-clean-tokenizer/
 AR-dotless-tokenizer/
-
+AR-dotless-mediumPlus-tokenized-arrow/
 legacy/
+dotless-model-small/
