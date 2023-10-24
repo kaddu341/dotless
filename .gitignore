@@ -53,3 +53,14 @@ AR-dotless-tokenizer/
 AR-dotless-mediumPlus-tokenized-arrow/
 legacy/
 dotless-model-small/
+AR-dotted-mediumPlus-arrow/
+
+AR-dotted-tokenizer/
+AR-dotted-tokenized-mediumPlus-arrow/
+
+logs/
+
+Archived/
+dotless_mask_model-small/
+AR*/
+data/
