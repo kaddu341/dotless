@@ -64,3 +64,6 @@ Archived/
 dotless_mask_model-small/
 AR*/
 data/
+
+dotless.code-workspace
+Models/Model v3/__pycache__
