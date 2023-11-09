@@ -1,23 +1,3 @@
-
-import numpy as np
-import re
-import sys
-import random
-
-def parse_text(text):
-  text = text.strip()
-  
-  clean_chars = [char for char in text if char in letter_set]
-  clean_string = ''.join(clean_chars)
-
-  output_chars = [letter_dict[char] for char in clean_chars]
-  output_string = ''.join(output_chars)
-      
-  clean_string = replace(clean_string, ' ')
-  output_string = replace(output_string, '_')
-  
-  return(clean_string, output_string)
-
 # Replaces multiple spaces, or whatever char designated by the perameter into one char. (helper function)
 def replace(string, char):
     while char+char in string:
@@ -78,31 +58,27 @@ letter_dict = {
 letter_set = set(letter_dict.keys())
 iLetters = reverse_dict_with_duplicates(letter_dict)
 
-def allVariation(root, i = 0):
-    tWord = []
-    word = [a for a in root]
-    char = word[i]
-    for dot in iLetters[char]:
-        word[i] = dot
-        vWord = ''.join(word)
-        if i != len(word) - 1:
-            tWord.extend(allVariation(vWord, i+1))
-        else:
-            #if vWord in dictionary:
-            tWord.append(vWord)
-    return tWord
+def allVariation(root):
+    stack = [(list(root), 0)]
+    variations = []
 
-def mask_random_word(input_string, seed=None):
-    words = input_string.split()
-    print(words)
-    if seed is not None:
-        random.seed(seed)
+    while stack:
+        word, i = stack.pop()
+        char = word[i]
 
-    if words:
-        index = random.randint(0, len(words) - 1)
-        word_to_replace = words[index]
-        words[index] = "[MASK]"
-        modified_string = ' '.join(words)
-        return modified_string, word_to_replace
-    else:
-        return input_string, None
+        for dot in iLetters[char]:
+            word[i] = dot
+            if i == len(word) - 1:
+                variations.append(''.join(word))
+            else:
+                stack.append((list(word), i + 1))
+
+    return variations
+
+def uMap_parse_dotless_text(text):
+  dotless_chars = [letter_dict[char] for char in text]
+  dotless_string = ''.join(dotless_chars)
+        
+  dotless_string = replace(dotless_string, '_')
+    
+  return dotless_string
