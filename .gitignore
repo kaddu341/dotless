@@ -66,4 +66,6 @@ AR*/
 data/
 
 dotless.code-workspace
-Models/Model v3/__pycache__
+__pycache__
+
+arwiki.wordlist
