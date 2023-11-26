@@ -69,3 +69,5 @@ dotless.code-workspace
 __pycache__
 
 arwiki.wordlist
+
+roots.txt
