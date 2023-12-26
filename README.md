@@ -46,3 +46,5 @@ Technical specifications will be refined as we move on with the project In Shaa 
 - Download T5 model in TFLite format and spellchecker in .jar format
 - Basically translate Python implementation of the algorithm into Java
 - Link to frontend
+
+![Dotless Algorithms](assets/DotlessAlgorithms.png)
