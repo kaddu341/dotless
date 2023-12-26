@@ -30,17 +30,17 @@ Technical specifications will be refined as we move on with the project In Shaa 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
 
 ### Running Tasks Backlog:
-Backend (Awwab Ahmed & Ammar)
+**Backend (Awwab Ahmed & Ammar)**
 - Fine-tune new T5 model for masking multiple tokens
 - Use Farasa spellchecker's Python API to implement Part 1 of the Dotless Algorithm in Python
 
-Frontend (Awwab Azam):
+**Frontend (Awwab Azam):**
 - Implement switching between different screens for letters, numbers, special characters etc.
 - Add suggestions bar and text field for fullscreen mode
 - Implement fullscreen (aka "sideways") mode
 - Improve aesthetic appearance
 
-Once above is completed:
+**Once above is completed:**
 - Download T5 model in TFLite format and spellchecker in .jar format
 - Basically translate Python implementation of the algorithm into Java
 - Link to frontend
