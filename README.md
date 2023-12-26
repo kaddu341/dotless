@@ -20,7 +20,7 @@ Technical specifications will be refined as we move on with the project In Shaa 
 
 ## Milestones
 1. **Idea:** Through “Design Thinking”, produce a mockup and validate the concept.
-2. **Planning:** As part of the SCRUM methodology, set up Jira and Confluence and make a backlog w/ user stories, decide who’s doing what.
+2. **Planning:** ~~As part of the SCRUM methodology, set up Jira and Confluence and make a backlog w/ user stories,~~ decide who’s doing what.
 3. **Develop:** Select the Architecture and relevant technologies, learn required skills, and develop the Android App.
 4. **Test:** Test the App.
 5. **Deploy:** Put App on Google Play for the whole world to access.
@@ -28,3 +28,17 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
+
+### Running Tasks Backlog:
+Backend:
+- Fine-tune new T5 model for masking multiple tokens
+- Use Farasa spellchecker's Python API to implement Part 1 of the Dotless Algorithm in Python
+Frontend:
+- Implement switching between different screens for letters, numbers, special characters etc.
+- Add suggestions bar and text field for fullscreen mode
+- Implement fullscreen (aka "sideways") mode
+- Improve aesthetic appearance
+Once above is completed:
+- Download T5 model in TFLite format and spellchecker in .jar format
+- Basically translate Python implementation of the algorithm into Java
+- Link to frontend
