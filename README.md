@@ -31,7 +31,7 @@ Technical specifications will be refined as we move on with the project In Shaa 
 
 ### Running Tasks Backlog:
 **Backend (Awwab Ahmed & Ammar)**
-*To be finished by JJanuary 8 isA*
+*To be finished by January 8 isA*
 - Fine-tune new T5 model for masking multiple tokens
 - Use Farasa spellchecker's Python API to implement Part 1 of the Dotless Algorithm in Python
 
