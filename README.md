@@ -31,10 +31,12 @@ Technical specifications will be refined as we move on with the project In Shaa 
 
 ### Running Tasks Backlog:
 **Backend (Awwab Ahmed & Ammar)**
+*To be finished by __*
 - Fine-tune new T5 model for masking multiple tokens
 - Use Farasa spellchecker's Python API to implement Part 1 of the Dotless Algorithm in Python
 
 **Frontend (Awwab Azam):**
+*To be finished by January 8 isA*
 - Implement switching between different screens for letters, numbers, special characters etc.
 - Add suggestions bar and text field for fullscreen mode
 - Implement fullscreen (aka "sideways") mode
