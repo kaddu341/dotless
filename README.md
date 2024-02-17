@@ -2,6 +2,8 @@
 # dotless
 **Repository for the "Dotless" AI-powered mobile keyboard for the Arabic script.**
 
+https://huggingface.co/dot-ammar
+
 *Summary:*
 "Dotless" is a vision for a mobile keyboard app for the Arabic script which reduces the number of keys by using AI to differentiate between similar letters (e.g. ج،ح،خ) based on context, thereby drastically simplifying the layout and making it easier for users to type.
 
@@ -29,3 +31,4 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
+
