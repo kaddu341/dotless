@@ -1,0 +1,1706 @@
+word: آلشغآذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'آ', 'ذه']
+word_tokens: ['آل', '##ش', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: آلشغآذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'آ', 'ذ']
+word_tokens: ['آل', '##ش', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: آلشغآده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'آ', 'دهه']
+word_tokens: ['آل', '##ش', '##غ', '##آ', '##ده']
+-------------------------------------
+word: آلشغآدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'آ', 'د']
+word_tokens: ['آل', '##ش', '##غ', '##آ', '##دة']
+-------------------------------------
+word: آلشغإذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ء', 'ذه']
+word_tokens: ['آل', '##ش', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: آلشغإذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ء', 'ذ']
+word_tokens: ['آل', '##ش', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: آلشغإده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ء', 'دهه']
+word_tokens: ['آل', '##ش', '##غ', '##إ', '##ده']
+-------------------------------------
+word: آلشغإدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ء', 'د']
+word_tokens: ['آل', '##ش', '##غ', '##إ', '##دة']
+-------------------------------------
+word: آلشغأذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'أ', 'ذه']
+word_tokens: ['آل', '##ش', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: آلشغأذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'أ', 'ذ']
+word_tokens: ['آل', '##ش', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: آلشغأده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'أ', 'دهه']
+word_tokens: ['آل', '##ش', '##غ', '##أ', '##ده']
+-------------------------------------
+word: آلشغأدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'أ', 'د']
+word_tokens: ['آل', '##ش', '##غ', '##أ', '##دة']
+-------------------------------------
+word: آلشغاذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ذه']
+word_tokens: ['آل', '##ش', '##غا', '##ذه']
+-------------------------------------
+word: آلشغاذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'ذ']
+word_tokens: ['آل', '##ش', '##غا', '##ذة']
+-------------------------------------
+word: آلشغاده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'دهه']
+word_tokens: ['آل', '##ش', '##غا', '##ده']
+-------------------------------------
+word: آلشغادة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'ش', 'غ', 'د']
+word_tokens: ['آل', '##ش', '##غا', '##دة']
+-------------------------------------
+word: آلشعآذه
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'آ', 'ذه']
+word_tokens: ['آل', '##شع', '##آ', '##ذه']
+-------------------------------------
+word: آلشعآذة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'آ', 'ذ']
+word_tokens: ['آل', '##شع', '##آ', '##ذة']
+-------------------------------------
+word: آلشعآده
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'آ', 'دهه']
+word_tokens: ['آل', '##شع', '##آ', '##ده']
+-------------------------------------
+word: آلشعآدة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'آ', 'د']
+word_tokens: ['آل', '##شع', '##آ', '##دة']
+-------------------------------------
+word: آلشعإذه
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ء', 'ذه']
+word_tokens: ['آل', '##شع', '##إ', '##ذه']
+-------------------------------------
+word: آلشعإذة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ء', 'ذ']
+word_tokens: ['آل', '##شع', '##إ', '##ذة']
+-------------------------------------
+word: آلشعإده
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ء', 'دهه']
+word_tokens: ['آل', '##شع', '##إ', '##ده']
+-------------------------------------
+word: آلشعإدة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ء', 'د']
+word_tokens: ['آل', '##شع', '##إ', '##دة']
+-------------------------------------
+word: آلشعأذه
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'أ', 'ذه']
+word_tokens: ['آل', '##شع', '##أ', '##ذه']
+-------------------------------------
+word: آلشعأذة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'أ', 'ذ']
+word_tokens: ['آل', '##شع', '##أ', '##ذة']
+-------------------------------------
+word: آلشعأده
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'أ', 'دهه']
+word_tokens: ['آل', '##شع', '##أ', '##ده']
+-------------------------------------
+word: آلشعأدة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'أ', 'د']
+word_tokens: ['آل', '##شع', '##أ', '##دة']
+-------------------------------------
+word: آلشعاذه
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ذ', 'ه']
+word_tokens: ['آل', '##شع', '##اذ', '##ه']
+-------------------------------------
+word: آلشعاذة
+true_root: True
+is_roots: [False, True, False, False]
+roots: ['ءال', 'شعع', 'ذ', 'ة']
+word_tokens: ['آل', '##شع', '##اذ', '##ة']
+-------------------------------------
+word: آلشعاده
+true_root: True
+is_roots: [False, True, True]
+roots: ['ءال', 'شعع', 'وده']
+word_tokens: ['آل', '##شع', '##اده']
+-------------------------------------
+word: آلشعادة
+true_root: True
+is_roots: [False, True, False]
+roots: ['ءال', 'شعع', 'ودة']
+word_tokens: ['آل', '##شع', '##ادة']
+-------------------------------------
+word: آلسغآذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'آ', 'ذه']
+word_tokens: ['آل', '##س', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: آلسغآذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'آ', 'ذ']
+word_tokens: ['آل', '##س', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: آلسغآده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'آ', 'دهه']
+word_tokens: ['آل', '##س', '##غ', '##آ', '##ده']
+-------------------------------------
+word: آلسغآدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'آ', 'د']
+word_tokens: ['آل', '##س', '##غ', '##آ', '##دة']
+-------------------------------------
+word: آلسغإذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ء', 'ذه']
+word_tokens: ['آل', '##س', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: آلسغإذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ء', 'ذ']
+word_tokens: ['آل', '##س', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: آلسغإده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ء', 'دهه']
+word_tokens: ['آل', '##س', '##غ', '##إ', '##ده']
+-------------------------------------
+word: آلسغإدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ء', 'د']
+word_tokens: ['آل', '##س', '##غ', '##إ', '##دة']
+-------------------------------------
+word: آلسغأذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'أ', 'ذه']
+word_tokens: ['آل', '##س', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: آلسغأذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'أ', 'ذ']
+word_tokens: ['آل', '##س', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: آلسغأده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'أ', 'دهه']
+word_tokens: ['آل', '##س', '##غ', '##أ', '##ده']
+-------------------------------------
+word: آلسغأدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'أ', 'د']
+word_tokens: ['آل', '##س', '##غ', '##أ', '##دة']
+-------------------------------------
+word: آلسغاذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ذه']
+word_tokens: ['آل', '##س', '##غا', '##ذه']
+-------------------------------------
+word: آلسغاذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'ذ']
+word_tokens: ['آل', '##س', '##غا', '##ذة']
+-------------------------------------
+word: آلسغاده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'دهه']
+word_tokens: ['آل', '##س', '##غا', '##ده']
+-------------------------------------
+word: آلسغادة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'س', 'غ', 'د']
+word_tokens: ['آل', '##س', '##غا', '##دة']
+-------------------------------------
+word: آلسعآذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'آ', 'ذه']
+word_tokens: ['آل', '##سع', '##آ', '##ذه']
+-------------------------------------
+word: آلسعآذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'آ', 'ذ']
+word_tokens: ['آل', '##سع', '##آ', '##ذة']
+-------------------------------------
+word: آلسعآده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'آ', 'دهه']
+word_tokens: ['آل', '##سع', '##آ', '##ده']
+-------------------------------------
+word: آلسعآدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'آ', 'د']
+word_tokens: ['آل', '##سع', '##آ', '##دة']
+-------------------------------------
+word: آلسعإذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ء', 'ذه']
+word_tokens: ['آل', '##سع', '##إ', '##ذه']
+-------------------------------------
+word: آلسعإذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ء', 'ذ']
+word_tokens: ['آل', '##سع', '##إ', '##ذة']
+-------------------------------------
+word: آلسعإده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ء', 'دهه']
+word_tokens: ['آل', '##سع', '##إ', '##ده']
+-------------------------------------
+word: آلسعإدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ء', 'د']
+word_tokens: ['آل', '##سع', '##إ', '##دة']
+-------------------------------------
+word: آلسعأذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'أ', 'ذه']
+word_tokens: ['آل', '##سع', '##أ', '##ذه']
+-------------------------------------
+word: آلسعأذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'أ', 'ذ']
+word_tokens: ['آل', '##سع', '##أ', '##ذة']
+-------------------------------------
+word: آلسعأده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'أ', 'دهه']
+word_tokens: ['آل', '##سع', '##أ', '##ده']
+-------------------------------------
+word: آلسعأدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'أ', 'د']
+word_tokens: ['آل', '##سع', '##أ', '##دة']
+-------------------------------------
+word: آلسعاذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ذ', 'ه']
+word_tokens: ['آل', '##سع', '##اذ', '##ه']
+-------------------------------------
+word: آلسعاذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['ءال', 'سعع', 'ذ', 'ة']
+word_tokens: ['آل', '##سع', '##اذ', '##ة']
+-------------------------------------
+word: آلسعاده
+true_root: True
+is_roots: [False, False, True]
+roots: ['ءال', 'سعع', 'وده']
+word_tokens: ['آل', '##سع', '##اده']
+-------------------------------------
+word: آلسعادة
+true_root: False
+is_roots: [False, False, False]
+roots: ['ءال', 'سعع', 'ودة']
+word_tokens: ['آل', '##سع', '##ادة']
+-------------------------------------
+word: إلشغآذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'آ', 'ذه']
+word_tokens: ['إل', '##ش', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: إلشغآذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'آ', 'ذ']
+word_tokens: ['إل', '##ش', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: إلشغآده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'آ', 'دهه']
+word_tokens: ['إل', '##ش', '##غ', '##آ', '##ده']
+-------------------------------------
+word: إلشغآدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'آ', 'د']
+word_tokens: ['إل', '##ش', '##غ', '##آ', '##دة']
+-------------------------------------
+word: إلشغإذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ء', 'ذه']
+word_tokens: ['إل', '##ش', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: إلشغإذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ء', 'ذ']
+word_tokens: ['إل', '##ش', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: إلشغإده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ء', 'دهه']
+word_tokens: ['إل', '##ش', '##غ', '##إ', '##ده']
+-------------------------------------
+word: إلشغإدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ء', 'د']
+word_tokens: ['إل', '##ش', '##غ', '##إ', '##دة']
+-------------------------------------
+word: إلشغأذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'أ', 'ذه']
+word_tokens: ['إل', '##ش', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: إلشغأذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'أ', 'ذ']
+word_tokens: ['إل', '##ش', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: إلشغأده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'أ', 'دهه']
+word_tokens: ['إل', '##ش', '##غ', '##أ', '##ده']
+-------------------------------------
+word: إلشغأدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'أ', 'د']
+word_tokens: ['إل', '##ش', '##غ', '##أ', '##دة']
+-------------------------------------
+word: إلشغاذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ذه']
+word_tokens: ['إل', '##ش', '##غا', '##ذه']
+-------------------------------------
+word: إلشغاذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'ذ']
+word_tokens: ['إل', '##ش', '##غا', '##ذة']
+-------------------------------------
+word: إلشغاده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'دهه']
+word_tokens: ['إل', '##ش', '##غا', '##ده']
+-------------------------------------
+word: إلشغادة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'ش', 'غ', 'د']
+word_tokens: ['إل', '##ش', '##غا', '##دة']
+-------------------------------------
+word: إلشعآذه
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'آ', 'ذه']
+word_tokens: ['إل', '##شع', '##آ', '##ذه']
+-------------------------------------
+word: إلشعآذة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'آ', 'ذ']
+word_tokens: ['إل', '##شع', '##آ', '##ذة']
+-------------------------------------
+word: إلشعآده
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'آ', 'دهه']
+word_tokens: ['إل', '##شع', '##آ', '##ده']
+-------------------------------------
+word: إلشعآدة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'آ', 'د']
+word_tokens: ['إل', '##شع', '##آ', '##دة']
+-------------------------------------
+word: إلشعإذه
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ء', 'ذه']
+word_tokens: ['إل', '##شع', '##إ', '##ذه']
+-------------------------------------
+word: إلشعإذة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ء', 'ذ']
+word_tokens: ['إل', '##شع', '##إ', '##ذة']
+-------------------------------------
+word: إلشعإده
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ء', 'دهه']
+word_tokens: ['إل', '##شع', '##إ', '##ده']
+-------------------------------------
+word: إلشعإدة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ء', 'د']
+word_tokens: ['إل', '##شع', '##إ', '##دة']
+-------------------------------------
+word: إلشعأذه
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'أ', 'ذه']
+word_tokens: ['إل', '##شع', '##أ', '##ذه']
+-------------------------------------
+word: إلشعأذة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'أ', 'ذ']
+word_tokens: ['إل', '##شع', '##أ', '##ذة']
+-------------------------------------
+word: إلشعأده
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'أ', 'دهه']
+word_tokens: ['إل', '##شع', '##أ', '##ده']
+-------------------------------------
+word: إلشعأدة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'أ', 'د']
+word_tokens: ['إل', '##شع', '##أ', '##دة']
+-------------------------------------
+word: إلشعاذه
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ذ', 'ه']
+word_tokens: ['إل', '##شع', '##اذ', '##ه']
+-------------------------------------
+word: إلشعاذة
+true_root: True
+is_roots: [True, True, False, False]
+roots: ['ءلل', 'شعع', 'ذ', 'ة']
+word_tokens: ['إل', '##شع', '##اذ', '##ة']
+-------------------------------------
+word: إلشعاده
+true_root: True
+is_roots: [True, True, True]
+roots: ['ءلل', 'شعع', 'وده']
+word_tokens: ['إل', '##شع', '##اده']
+-------------------------------------
+word: إلشعادة
+true_root: True
+is_roots: [True, True, False]
+roots: ['ءلل', 'شعع', 'ودة']
+word_tokens: ['إل', '##شع', '##ادة']
+-------------------------------------
+word: إلسغآذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'آ', 'ذه']
+word_tokens: ['إل', '##س', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: إلسغآذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'آ', 'ذ']
+word_tokens: ['إل', '##س', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: إلسغآده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'آ', 'دهه']
+word_tokens: ['إل', '##س', '##غ', '##آ', '##ده']
+-------------------------------------
+word: إلسغآدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'آ', 'د']
+word_tokens: ['إل', '##س', '##غ', '##آ', '##دة']
+-------------------------------------
+word: إلسغإذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ء', 'ذه']
+word_tokens: ['إل', '##س', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: إلسغإذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ء', 'ذ']
+word_tokens: ['إل', '##س', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: إلسغإده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ء', 'دهه']
+word_tokens: ['إل', '##س', '##غ', '##إ', '##ده']
+-------------------------------------
+word: إلسغإدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ء', 'د']
+word_tokens: ['إل', '##س', '##غ', '##إ', '##دة']
+-------------------------------------
+word: إلسغأذه
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'أ', 'ذه']
+word_tokens: ['إل', '##س', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: إلسغأذة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'أ', 'ذ']
+word_tokens: ['إل', '##س', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: إلسغأده
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'أ', 'دهه']
+word_tokens: ['إل', '##س', '##غ', '##أ', '##ده']
+-------------------------------------
+word: إلسغأدة
+true_root: True
+is_roots: [True, False, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'أ', 'د']
+word_tokens: ['إل', '##س', '##غ', '##أ', '##دة']
+-------------------------------------
+word: إلسغاذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ذه']
+word_tokens: ['إل', '##س', '##غا', '##ذه']
+-------------------------------------
+word: إلسغاذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'ذ']
+word_tokens: ['إل', '##س', '##غا', '##ذة']
+-------------------------------------
+word: إلسغاده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'دهه']
+word_tokens: ['إل', '##س', '##غا', '##ده']
+-------------------------------------
+word: إلسغادة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'س', 'غ', 'د']
+word_tokens: ['إل', '##س', '##غا', '##دة']
+-------------------------------------
+word: إلسعآذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'آ', 'ذه']
+word_tokens: ['إل', '##سع', '##آ', '##ذه']
+-------------------------------------
+word: إلسعآذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'آ', 'ذ']
+word_tokens: ['إل', '##سع', '##آ', '##ذة']
+-------------------------------------
+word: إلسعآده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'آ', 'دهه']
+word_tokens: ['إل', '##سع', '##آ', '##ده']
+-------------------------------------
+word: إلسعآدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'آ', 'د']
+word_tokens: ['إل', '##سع', '##آ', '##دة']
+-------------------------------------
+word: إلسعإذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ء', 'ذه']
+word_tokens: ['إل', '##سع', '##إ', '##ذه']
+-------------------------------------
+word: إلسعإذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ء', 'ذ']
+word_tokens: ['إل', '##سع', '##إ', '##ذة']
+-------------------------------------
+word: إلسعإده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ء', 'دهه']
+word_tokens: ['إل', '##سع', '##إ', '##ده']
+-------------------------------------
+word: إلسعإدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ء', 'د']
+word_tokens: ['إل', '##سع', '##إ', '##دة']
+-------------------------------------
+word: إلسعأذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'أ', 'ذه']
+word_tokens: ['إل', '##سع', '##أ', '##ذه']
+-------------------------------------
+word: إلسعأذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'أ', 'ذ']
+word_tokens: ['إل', '##سع', '##أ', '##ذة']
+-------------------------------------
+word: إلسعأده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'أ', 'دهه']
+word_tokens: ['إل', '##سع', '##أ', '##ده']
+-------------------------------------
+word: إلسعأدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'أ', 'د']
+word_tokens: ['إل', '##سع', '##أ', '##دة']
+-------------------------------------
+word: إلسعاذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ذ', 'ه']
+word_tokens: ['إل', '##سع', '##اذ', '##ه']
+-------------------------------------
+word: إلسعاذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ءلل', 'سعع', 'ذ', 'ة']
+word_tokens: ['إل', '##سع', '##اذ', '##ة']
+-------------------------------------
+word: إلسعاده
+true_root: True
+is_roots: [True, False, True]
+roots: ['ءلل', 'سعع', 'وده']
+word_tokens: ['إل', '##سع', '##اده']
+-------------------------------------
+word: إلسعادة
+true_root: True
+is_roots: [True, False, False]
+roots: ['ءلل', 'سعع', 'ودة']
+word_tokens: ['إل', '##سع', '##ادة']
+-------------------------------------
+word: ألشغآذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'آ', 'ذه']
+word_tokens: ['أ', '##لش', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: ألشغآذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'آ', 'ذ']
+word_tokens: ['أ', '##لش', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: ألشغآده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'آ', 'دهه']
+word_tokens: ['أ', '##لش', '##غ', '##آ', '##ده']
+-------------------------------------
+word: ألشغآدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'آ', 'د']
+word_tokens: ['أ', '##لش', '##غ', '##آ', '##دة']
+-------------------------------------
+word: ألشغإذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ء', 'ذه']
+word_tokens: ['أ', '##لش', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: ألشغإذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ء', 'ذ']
+word_tokens: ['أ', '##لش', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: ألشغإده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ء', 'دهه']
+word_tokens: ['أ', '##لش', '##غ', '##إ', '##ده']
+-------------------------------------
+word: ألشغإدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ء', 'د']
+word_tokens: ['أ', '##لش', '##غ', '##إ', '##دة']
+-------------------------------------
+word: ألشغأذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'أ', 'ذه']
+word_tokens: ['أ', '##لش', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: ألشغأذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'أ', 'ذ']
+word_tokens: ['أ', '##لش', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: ألشغأده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'أ', 'دهه']
+word_tokens: ['أ', '##لش', '##غ', '##أ', '##ده']
+-------------------------------------
+word: ألشغأدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'أ', 'د']
+word_tokens: ['أ', '##لش', '##غ', '##أ', '##دة']
+-------------------------------------
+word: ألشغاذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ذه']
+word_tokens: ['أ', '##لش', '##غا', '##ذه']
+-------------------------------------
+word: ألشغاذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'ذ']
+word_tokens: ['أ', '##لش', '##غا', '##ذة']
+-------------------------------------
+word: ألشغاده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'دهه']
+word_tokens: ['أ', '##لش', '##غا', '##ده']
+-------------------------------------
+word: ألشغادة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'غ', 'د']
+word_tokens: ['أ', '##لش', '##غا', '##دة']
+-------------------------------------
+word: ألشعآذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'آ', 'ذه']
+word_tokens: ['أ', '##لش', '##ع', '##آ', '##ذه']
+-------------------------------------
+word: ألشعآذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'آ', 'ذ']
+word_tokens: ['أ', '##لش', '##ع', '##آ', '##ذة']
+-------------------------------------
+word: ألشعآده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'آ', 'دهه']
+word_tokens: ['أ', '##لش', '##ع', '##آ', '##ده']
+-------------------------------------
+word: ألشعآدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'آ', 'د']
+word_tokens: ['أ', '##لش', '##ع', '##آ', '##دة']
+-------------------------------------
+word: ألشعإذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ء', 'ذه']
+word_tokens: ['أ', '##لش', '##ع', '##إ', '##ذه']
+-------------------------------------
+word: ألشعإذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ء', 'ذ']
+word_tokens: ['أ', '##لش', '##ع', '##إ', '##ذة']
+-------------------------------------
+word: ألشعإده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ء', 'دهه']
+word_tokens: ['أ', '##لش', '##ع', '##إ', '##ده']
+-------------------------------------
+word: ألشعإدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ء', 'د']
+word_tokens: ['أ', '##لش', '##ع', '##إ', '##دة']
+-------------------------------------
+word: ألشعأذه
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'أ', 'ذه']
+word_tokens: ['أ', '##لش', '##ع', '##أ', '##ذه']
+-------------------------------------
+word: ألشعأذة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'أ', 'ذ']
+word_tokens: ['أ', '##لش', '##ع', '##أ', '##ذة']
+-------------------------------------
+word: ألشعأده
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'أ', 'دهه']
+word_tokens: ['أ', '##لش', '##ع', '##أ', '##ده']
+-------------------------------------
+word: ألشعأدة
+true_root: False
+is_roots: [False, False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'أ', 'د']
+word_tokens: ['أ', '##لش', '##ع', '##أ', '##دة']
+-------------------------------------
+word: ألشعاذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ذه']
+word_tokens: ['أ', '##لش', '##عا', '##ذه']
+-------------------------------------
+word: ألشعاذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['أ', 'لشش', 'ع', 'ذ']
+word_tokens: ['أ', '##لش', '##عا', '##ذة']
+-------------------------------------
+word: ألشعاده
+true_root: True
+is_roots: [False, False, True]
+roots: ['أ', 'لشش', 'عود']
+word_tokens: ['أ', '##لش', '##عاده']
+-------------------------------------
+word: ألشعادة
+true_root: True
+is_roots: [False, False, True]
+roots: ['أ', 'لشش', 'عود']
+word_tokens: ['أ', '##لش', '##عادة']
+-------------------------------------
+word: ألسغآذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'آ', 'ذه']
+word_tokens: ['ألس', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: ألسغآذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'آ', 'ذ']
+word_tokens: ['ألس', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: ألسغآده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'آ', 'دهه']
+word_tokens: ['ألس', '##غ', '##آ', '##ده']
+-------------------------------------
+word: ألسغآدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'آ', 'د']
+word_tokens: ['ألس', '##غ', '##آ', '##دة']
+-------------------------------------
+word: ألسغإذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'ء', 'ذه']
+word_tokens: ['ألس', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: ألسغإذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'ء', 'ذ']
+word_tokens: ['ألس', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: ألسغإده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'ء', 'دهه']
+word_tokens: ['ألس', '##غ', '##إ', '##ده']
+-------------------------------------
+word: ألسغإدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'ء', 'د']
+word_tokens: ['ألس', '##غ', '##إ', '##دة']
+-------------------------------------
+word: ألسغأذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'أ', 'ذه']
+word_tokens: ['ألس', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: ألسغأذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'أ', 'ذ']
+word_tokens: ['ألس', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: ألسغأده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'أ', 'دهه']
+word_tokens: ['ألس', '##غ', '##أ', '##ده']
+-------------------------------------
+word: ألسغأدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'غ', 'أ', 'د']
+word_tokens: ['ألس', '##غ', '##أ', '##دة']
+-------------------------------------
+word: ألسغاذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'غ', 'ذه']
+word_tokens: ['ألس', '##غا', '##ذه']
+-------------------------------------
+word: ألسغاذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'غ', 'ذ']
+word_tokens: ['ألس', '##غا', '##ذة']
+-------------------------------------
+word: ألسغاده
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'غ', 'دهه']
+word_tokens: ['ألس', '##غا', '##ده']
+-------------------------------------
+word: ألسغادة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'غ', 'د']
+word_tokens: ['ألس', '##غا', '##دة']
+-------------------------------------
+word: ألسعآذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'آ', 'ذه']
+word_tokens: ['ألس', '##ع', '##آ', '##ذه']
+-------------------------------------
+word: ألسعآذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'آ', 'ذ']
+word_tokens: ['ألس', '##ع', '##آ', '##ذة']
+-------------------------------------
+word: ألسعآده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'آ', 'دهه']
+word_tokens: ['ألس', '##ع', '##آ', '##ده']
+-------------------------------------
+word: ألسعآدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'آ', 'د']
+word_tokens: ['ألس', '##ع', '##آ', '##دة']
+-------------------------------------
+word: ألسعإذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'ء', 'ذه']
+word_tokens: ['ألس', '##ع', '##إ', '##ذه']
+-------------------------------------
+word: ألسعإذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'ء', 'ذ']
+word_tokens: ['ألس', '##ع', '##إ', '##ذة']
+-------------------------------------
+word: ألسعإده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'ء', 'دهه']
+word_tokens: ['ألس', '##ع', '##إ', '##ده']
+-------------------------------------
+word: ألسعإدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'ء', 'د']
+word_tokens: ['ألس', '##ع', '##إ', '##دة']
+-------------------------------------
+word: ألسعأذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'أ', 'ذه']
+word_tokens: ['ألس', '##ع', '##أ', '##ذه']
+-------------------------------------
+word: ألسعأذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'أ', 'ذ']
+word_tokens: ['ألس', '##ع', '##أ', '##ذة']
+-------------------------------------
+word: ألسعأده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'أ', 'دهه']
+word_tokens: ['ألس', '##ع', '##أ', '##ده']
+-------------------------------------
+word: ألسعأدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['لسس', 'ع', 'أ', 'د']
+word_tokens: ['ألس', '##ع', '##أ', '##دة']
+-------------------------------------
+word: ألسعاذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'ع', 'ذه']
+word_tokens: ['ألس', '##عا', '##ذه']
+-------------------------------------
+word: ألسعاذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسس', 'ع', 'ذ']
+word_tokens: ['ألس', '##عا', '##ذة']
+-------------------------------------
+word: ألسعاده
+true_root: True
+is_roots: [True, True]
+roots: ['لسس', 'عود']
+word_tokens: ['ألس', '##عاده']
+-------------------------------------
+word: ألسعادة
+true_root: True
+is_roots: [True, True]
+roots: ['لسس', 'عود']
+word_tokens: ['ألس', '##عادة']
+-------------------------------------
+word: الشغآذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'آ', 'ذه']
+word_tokens: ['الش', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: الشغآذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'آ', 'ذ']
+word_tokens: ['الش', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: الشغآده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'آ', 'دهه']
+word_tokens: ['الش', '##غ', '##آ', '##ده']
+-------------------------------------
+word: الشغآدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'آ', 'د']
+word_tokens: ['الش', '##غ', '##آ', '##دة']
+-------------------------------------
+word: الشغإذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'ء', 'ذه']
+word_tokens: ['الش', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: الشغإذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'ء', 'ذ']
+word_tokens: ['الش', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: الشغإده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'ء', 'دهه']
+word_tokens: ['الش', '##غ', '##إ', '##ده']
+-------------------------------------
+word: الشغإدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'ء', 'د']
+word_tokens: ['الش', '##غ', '##إ', '##دة']
+-------------------------------------
+word: الشغأذه
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'أ', 'ذه']
+word_tokens: ['الش', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: الشغأذة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'أ', 'ذ']
+word_tokens: ['الش', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: الشغأده
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'أ', 'دهه']
+word_tokens: ['الش', '##غ', '##أ', '##ده']
+-------------------------------------
+word: الشغأدة
+true_root: False
+is_roots: [False, False, False, False]
+roots: ['لشش', 'غ', 'أ', 'د']
+word_tokens: ['الش', '##غ', '##أ', '##دة']
+-------------------------------------
+word: الشغاذه
+true_root: False
+is_roots: [False, False, False]
+roots: ['لشش', 'غ', 'ذه']
+word_tokens: ['الش', '##غا', '##ذه']
+-------------------------------------
+word: الشغاذة
+true_root: False
+is_roots: [False, False, False]
+roots: ['لشش', 'غ', 'ذ']
+word_tokens: ['الش', '##غا', '##ذة']
+-------------------------------------
+word: الشغاده
+true_root: False
+is_roots: [False, False, False]
+roots: ['لشش', 'غ', 'دهه']
+word_tokens: ['الش', '##غا', '##ده']
+-------------------------------------
+word: الشغادة
+true_root: False
+is_roots: [False, False, False]
+roots: ['لشش', 'غ', 'د']
+word_tokens: ['الش', '##غا', '##دة']
+-------------------------------------
+word: الشعآذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'آ', 'ذه']
+word_tokens: ['الشع', '##آ', '##ذه']
+-------------------------------------
+word: الشعآذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'آ', 'ذ']
+word_tokens: ['الشع', '##آ', '##ذة']
+-------------------------------------
+word: الشعآده
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'آ', 'دهه']
+word_tokens: ['الشع', '##آ', '##ده']
+-------------------------------------
+word: الشعآدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'آ', 'د']
+word_tokens: ['الشع', '##آ', '##دة']
+-------------------------------------
+word: الشعإذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ء', 'ذه']
+word_tokens: ['الشع', '##إ', '##ذه']
+-------------------------------------
+word: الشعإذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ء', 'ذ']
+word_tokens: ['الشع', '##إ', '##ذة']
+-------------------------------------
+word: الشعإده
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ء', 'دهه']
+word_tokens: ['الشع', '##إ', '##ده']
+-------------------------------------
+word: الشعإدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ء', 'د']
+word_tokens: ['الشع', '##إ', '##دة']
+-------------------------------------
+word: الشعأذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'أ', 'ذه']
+word_tokens: ['الشع', '##أ', '##ذه']
+-------------------------------------
+word: الشعأذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'أ', 'ذ']
+word_tokens: ['الشع', '##أ', '##ذة']
+-------------------------------------
+word: الشعأده
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'أ', 'دهه']
+word_tokens: ['الشع', '##أ', '##ده']
+-------------------------------------
+word: الشعأدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'أ', 'د']
+word_tokens: ['الشع', '##أ', '##دة']
+-------------------------------------
+word: الشعاذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ذ', 'ه']
+word_tokens: ['الشع', '##اذ', '##ه']
+-------------------------------------
+word: الشعاذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['شعع', 'ذ', 'ة']
+word_tokens: ['الشع', '##اذ', '##ة']
+-------------------------------------
+word: الشعاده
+true_root: True
+is_roots: [True, True]
+roots: ['شعع', 'وده']
+word_tokens: ['الشع', '##اده']
+-------------------------------------
+word: الشعادة
+true_root: True
+is_roots: [True, False]
+roots: ['شعع', 'ودة']
+word_tokens: ['الشع', '##ادة']
+-------------------------------------
+word: السغآذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'آ', 'ذه']
+word_tokens: ['الس', '##غ', '##آ', '##ذه']
+-------------------------------------
+word: السغآذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'آ', 'ذ']
+word_tokens: ['الس', '##غ', '##آ', '##ذة']
+-------------------------------------
+word: السغآده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'آ', 'دهه']
+word_tokens: ['الس', '##غ', '##آ', '##ده']
+-------------------------------------
+word: السغآدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'آ', 'د']
+word_tokens: ['الس', '##غ', '##آ', '##دة']
+-------------------------------------
+word: السغإذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'ء', 'ذه']
+word_tokens: ['الس', '##غ', '##إ', '##ذه']
+-------------------------------------
+word: السغإذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'ء', 'ذ']
+word_tokens: ['الس', '##غ', '##إ', '##ذة']
+-------------------------------------
+word: السغإده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'ء', 'دهه']
+word_tokens: ['الس', '##غ', '##إ', '##ده']
+-------------------------------------
+word: السغإدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'ء', 'د']
+word_tokens: ['الس', '##غ', '##إ', '##دة']
+-------------------------------------
+word: السغأذه
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'أ', 'ذه']
+word_tokens: ['الس', '##غ', '##أ', '##ذه']
+-------------------------------------
+word: السغأذة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'أ', 'ذ']
+word_tokens: ['الس', '##غ', '##أ', '##ذة']
+-------------------------------------
+word: السغأده
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'أ', 'دهه']
+word_tokens: ['الس', '##غ', '##أ', '##ده']
+-------------------------------------
+word: السغأدة
+true_root: True
+is_roots: [True, False, False, False]
+roots: ['ولس', 'غ', 'أ', 'د']
+word_tokens: ['الس', '##غ', '##أ', '##دة']
+-------------------------------------
+word: السغاذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['ولس', 'غ', 'ذه']
+word_tokens: ['الس', '##غا', '##ذه']
+-------------------------------------
+word: السغاذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['ولس', 'غ', 'ذ']
+word_tokens: ['الس', '##غا', '##ذة']
+-------------------------------------
+word: السغاده
+true_root: True
+is_roots: [True, False, False]
+roots: ['ولس', 'غ', 'دهه']
+word_tokens: ['الس', '##غا', '##ده']
+-------------------------------------
+word: السغادة
+true_root: True
+is_roots: [True, False, False]
+roots: ['ولس', 'غ', 'د']
+word_tokens: ['الس', '##غا', '##دة']
+-------------------------------------
+word: السعآذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'آ', 'ذه']
+word_tokens: ['السع', '##آ', '##ذه']
+-------------------------------------
+word: السعآذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'آ', 'ذ']
+word_tokens: ['السع', '##آ', '##ذة']
+-------------------------------------
+word: السعآده
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'آ', 'دهه']
+word_tokens: ['السع', '##آ', '##ده']
+-------------------------------------
+word: السعآدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'آ', 'د']
+word_tokens: ['السع', '##آ', '##دة']
+-------------------------------------
+word: السعإذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ء', 'ذه']
+word_tokens: ['السع', '##إ', '##ذه']
+-------------------------------------
+word: السعإذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ء', 'ذ']
+word_tokens: ['السع', '##إ', '##ذة']
+-------------------------------------
+word: السعإده
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ء', 'دهه']
+word_tokens: ['السع', '##إ', '##ده']
+-------------------------------------
+word: السعإدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ء', 'د']
+word_tokens: ['السع', '##إ', '##دة']
+-------------------------------------
+word: السعأذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'أ', 'ذه']
+word_tokens: ['السع', '##أ', '##ذه']
+-------------------------------------
+word: السعأذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'أ', 'ذ']
+word_tokens: ['السع', '##أ', '##ذة']
+-------------------------------------
+word: السعأده
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'أ', 'دهه']
+word_tokens: ['السع', '##أ', '##ده']
+-------------------------------------
+word: السعأدة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'أ', 'د']
+word_tokens: ['السع', '##أ', '##دة']
+-------------------------------------
+word: السعاذه
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ذ', 'ه']
+word_tokens: ['السع', '##اذ', '##ه']
+-------------------------------------
+word: السعاذة
+true_root: True
+is_roots: [True, False, False]
+roots: ['لسع', 'ذ', 'ة']
+word_tokens: ['السع', '##اذ', '##ة']
+-------------------------------------
+word: السعاده
+true_root: True
+is_roots: [True]
+roots: ['سعد']
+word_tokens: ['السعاده']
+-------------------------------------
+____+_+_++_+++-=-=_+-=-=_+_+_++_+_=-=-=-=-+_=-=-=-+_=-=-=-+_+-=-=-=_+_
+word: السعادة
+true_root: True
+is_roots: [True]
+roots: ['سعد']
+word_tokens: ['السعادة']
+-------------------------------------
+Length of words: 163
+Word: 'ألسغآذة', Probability: 0.0092061358
+Word: 'ألشعادة', Probability: 0.0018035358
+Word: 'إلسعادة', Probability: 0.0016611626
+Word: 'آلسغاذة', Probability: 0.0012712381
+Word: 'آلشغاذه', Probability: 0.0012711909
+Word: 'إلشغاذة', Probability: 0.0012660159
+Word: 'ألسغآذه', Probability: 0.0002719118
+Word: 'آلسعادة', Probability: 0.0002155066
+Word: 'ألشعأذة', Probability: 0.0002091985
+Word: 'ألشعاذة', Probability: 0.0002089091
+Word: 'ألشعإذة', Probability: 0.0002088719
+Word: 'آلسعإدة', Probability: 0.0001853549
+Word: 'آلسعأدة', Probability: 0.0001851812
+Word: 'آلسعآدة', Probability: 0.0001851589
+Word: 'آلسعاذة', Probability: 0.0001830681
+Word: 'إلشغآذه', Probability: 0.0001712494
+Word: 'آلسعاده', Probability: 0.0001677825
+Word: 'ألشعإدة', Probability: 0.0001659472
+Word: 'ألشعأدة', Probability: 0.0001656578
+Word: 'ألشعآدة', Probability: 0.0001656206
+Word: 'آلسعإذة', Probability: 0.0001594041
+Word: 'آلسعأذة', Probability: 0.0001592304
+Word: 'آلسعآذة', Probability: 0.0001592081
+Word: 'ألشعأده', Probability: 0.0001501890
+Word: 'آلسعأذه', Probability: 0.0001499491
+Word: 'ألشعاده', Probability: 0.0001498995
+Word: 'ألشعإده', Probability: 0.0001498624
+Word: 'آلسعاذه', Probability: 0.0001497755
+Word: 'آلسعإذه', Probability: 0.0001497532
+Word: 'آلسعإده', Probability: 0.0001471756
+Word: 'آلسعأده', Probability: 0.0001470020
+Word: 'آلسعآده', Probability: 0.0001469797
+Word: 'ألشعأذه', Probability: 0.0001455664
+Word: 'ألشعاذه', Probability: 0.0001452770
+Word: 'ألشعإذه', Probability: 0.0001452398
+Word: 'ألشغآذه', Probability: 0.0001295386
+Word: 'آلسغاده', Probability: 0.0001225202
+Word: 'آلشغاذة', Probability: 0.0001224729
+Word: 'إلشغاده', Probability: 0.0001172979
+Word: 'آلشعادة', Probability: 0.0001115264
+Word: 'آلشعإدة', Probability: 0.0001021708
+Word: 'آلشعأدة', Probability: 0.0001019971
+Word: 'آلشعآدة', Probability: 0.0001019748
+Word: 'ألسغآده', Probability: 0.0000899547
+Word: 'آلسغادة', Probability: 0.0000863764
+Word: 'آلشغاده', Probability: 0.0000863134
+Word: 'إلشغادة', Probability: 0.0000794134
+Word: 'آلشعآذه', Probability: 0.0000793503
+Word: 'آلشعاذة', Probability: 0.0000790880
+Word: 'ألشغآذة', Probability: 0.0000788322
+Word: 'ألشعآذة', Probability: 0.0000770143
+Word: 'آلشعإذة', Probability: 0.0000762200
+Word: 'آلشعأذة', Probability: 0.0000760463
+Word: 'آلشعآذة', Probability: 0.0000760240
+Word: 'آلسغإدة', Probability: 0.0000754852
+Word: 'آلشغإده', Probability: 0.0000754379
+Word: 'آلسغأدة', Probability: 0.0000752681
+Word: 'آلسغآدة', Probability: 0.0000752403
+Word: 'آلشغأده', Probability: 0.0000752209
+Word: 'آلشغآده', Probability: 0.0000751930
+Word: 'ألشغأذة', Probability: 0.0000739478
+Word: 'ألشغاذة', Probability: 0.0000737307
+Word: 'ألشغإذة', Probability: 0.0000737028
+Word: 'إلسغآذة', Probability: 0.0000716276
+Word: 'إلشغإدة', Probability: 0.0000702629
+Word: 'إلشغأدة', Probability: 0.0000700459
+Word: 'إلشغآدة', Probability: 0.0000700180
+Word: 'إلشعأذة', Probability: 0.0000699078
+Word: 'إلشعاذة', Probability: 0.0000696907
+Word: 'إلشعإذة', Probability: 0.0000696628
+Word: 'آلسغآذه', Probability: 0.0000672693
+Word: 'إلسغأذة', Probability: 0.0000670631
+Word: 'إلسغاذة', Probability: 0.0000668460
+Word: 'إلسعأذة', Probability: 0.0000668253
+Word: 'إلسغإذة', Probability: 0.0000668181
+Word: 'آلشعأذه', Probability: 0.0000667650
+Word: 'آلشعاذه', Probability: 0.0000665914
+Word: 'آلشعإذه', Probability: 0.0000665691
+Word: 'إلسعاذة', Probability: 0.0000665359
+Word: 'إلسعإذة', Probability: 0.0000664987
+Word: 'آلشعإده', Probability: 0.0000639915
+Word: 'آلشعأده', Probability: 0.0000638179
+Word: 'آلشعاده', Probability: 0.0000638024
+Word: 'آلشعآده', Probability: 0.0000637956
+Word: 'آلسغإذة', Probability: 0.0000430467
+Word: 'آلشغإذه', Probability: 0.0000429995
+Word: 'آلسغأذة', Probability: 0.0000428297
+Word: 'آلسغآذة', Probability: 0.0000428018
+Word: 'آلشغأذه', Probability: 0.0000427824
+Word: 'آلشغآذه', Probability: 0.0000427545
+Word: 'ألشغإدة', Probability: 0.0000415093
+Word: 'ألشغأدة', Probability: 0.0000412922
+Word: 'ألشغآدة', Probability: 0.0000412644
+Word: 'إلشغإذة', Probability: 0.0000378245
+Word: 'إلشغأذة', Probability: 0.0000376074
+Word: 'إلشغآذة', Probability: 0.0000375795
+Word: 'إلشعإدة', Probability: 0.0000374693
+Word: 'إلشعأدة', Probability: 0.0000372522
+Word: 'إلشعآدة', Probability: 0.0000372243
+Word: 'آلسعآذه', Probability: 0.0000360720
+Word: 'آلشغادة', Probability: 0.0000360089
+Word: 'إلسغإدة', Probability: 0.0000346246
+Word: 'إلسغأدة', Probability: 0.0000344075
+Word: 'إلسغآدة', Probability: 0.0000343797
+Word: 'ألشغادة', Probability: 0.0000337630
+Word: 'آلسغأذه', Probability: 0.0000312280
+Word: 'آلشغإدة', Probability: 0.0000311808
+Word: 'آلسغاذه', Probability: 0.0000310110
+Word: 'آلسغإذه', Probability: 0.0000309831
+Word: 'آلشغأدة', Probability: 0.0000309637
+Word: 'آلشغآدة', Probability: 0.0000309358
+Word: 'ألشغأده', Probability: 0.0000296906
+Word: 'ألشغاده', Probability: 0.0000294735
+Word: 'ألشغإده', Probability: 0.0000294457
+Word: 'إلشعآذه', Probability: 0.0000291089
+Word: 'إلشعادة', Probability: 0.0000283764
+Word: 'آلسغإده', Probability: 0.0000277612
+Word: 'آلشغإذة', Probability: 0.0000277139
+Word: 'آلسغأده', Probability: 0.0000275441
+Word: 'آلسغآده', Probability: 0.0000275162
+Word: 'آلشغأذة', Probability: 0.0000274968
+Word: 'آلشغآذة', Probability: 0.0000274689
+Word: 'ألشغأذه', Probability: 0.0000262237
+Word: 'ألشغاذه', Probability: 0.0000260066
+Word: 'إلشغأذه', Probability: 0.0000260058
+Word: 'ألشغإذه', Probability: 0.0000259788
+Word: 'إلشغاذه', Probability: 0.0000257887
+Word: 'إلشغإذه', Probability: 0.0000257608
+Word: 'إلشعأده', Probability: 0.0000256506
+Word: 'إلشعاده', Probability: 0.0000254335
+Word: 'إلشعإده', Probability: 0.0000254057
+Word: 'إلسغادة', Probability: 0.0000240034
+Word: 'إلسعإدة', Probability: 0.0000235740
+Word: 'إلسعأدة', Probability: 0.0000232846
+Word: 'إلسعآدة', Probability: 0.0000232474
+Word: 'إلسغأده', Probability: 0.0000228059
+Word: 'إلسغاده', Probability: 0.0000225888
+Word: 'إلسغإده', Probability: 0.0000225610
+Word: 'إلشغإده', Probability: 0.0000225389
+Word: 'إلشغأده', Probability: 0.0000223218
+Word: 'إلشغآده', Probability: 0.0000222939
+Word: 'إلشعأذه', Probability: 0.0000221837
+Word: 'إلشعاذه', Probability: 0.0000219666
+Word: 'إلشعإذه', Probability: 0.0000219388
+Word: 'إلسغأذه', Probability: 0.0000193390
+Word: 'إلسغاذه', Probability: 0.0000191219
+Word: 'إلسغإذه', Probability: 0.0000190941
+Word: 'ألشعآده', Probability: 0.0000180048
+Word: 'ألشعآذه', Probability: 0.0000133823
+Word: 'إلسغآده', Probability: 0.0000126181
+Word: 'إلسعآذة', Probability: 0.0000099520
+Word: 'إلسغآذه', Probability: 0.0000079956
+Word: 'إلسعأده', Probability: 0.0000078158
+Word: 'إلسعاده', Probability: 0.0000075263
+Word: 'إلسعإده', Probability: 0.0000074892
+Word: 'إلشعآذة', Probability: 0.0000067527
+Word: 'إلسعآذه', Probability: 0.0000036226
+Word: 'ألشغآده', Probability: 0.0000033755
+Word: 'إلسعأذه', Probability: 0.0000031933
+Word: 'إلسعاذه', Probability: 0.0000029038
+Word: 'إلسعإذه', Probability: 0.0000028667
+Word: 'إلسعآده', Probability: 0.0000017063
+Word: 'إلشعآده', Probability: 0.0000012556
+
+Most probable word: ألسغآذة
+Target word: السعادة
+------------------------------------------
+Not found.
