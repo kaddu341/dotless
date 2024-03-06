@@ -6,6 +6,4 @@ dependencies:
   - pip
   - python
   - tensorflow
-  - pandas
-  - matplotlib
-  - numpy
+

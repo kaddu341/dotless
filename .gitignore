@@ -71,3 +71,7 @@ __pycache__
 arwiki.wordlist
 
 roots.txt
+
+*.conda/
+
+AR*

@@ -54,7 +54,7 @@ letter_dict = {
     "ي": "ى",
     "ى": "ى",
     "ئ": "ى",
-    " ": "_",
+    " ": " ",
     
 }
 letter_set = set(letter_dict.keys())
