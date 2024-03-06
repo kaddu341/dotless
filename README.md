@@ -2,6 +2,8 @@
 # dotless
 **Repository for the "Dotless" AI-powered mobile keyboard for the Arabic script.**
 
+https://huggingface.co/dot-ammar
+
 *Summary:*
 "Dotless" is a vision for a mobile keyboard app for the Arabic script which reduces the number of keys by using AI to differentiate between similar letters (e.g. ج،ح،خ) based on context, thereby drastically simplifying the layout and making it easier for users to type.
 
@@ -15,13 +17,12 @@ The original Arabic script did not use dots to differentiate between letters. Fo
 
 ## Specifications
 Technical specifications will be refined as we move on with the project In Shaa Allah, but for now:
-- App Dev: Android Studio
-- AI Engine: Google Cloud Platform AI tools
-- Programming Languages: Kotlin/Java and Python
+- App Dev & UI: Android Studio w/ Kotlin/Java
+- ML model: Python, using TensorFlow and Keras
 
 ## Milestones
 1. **Idea:** Through “Design Thinking”, produce a mockup and validate the concept.
-2. **Planning:** As part of the SCRUM methodology, set up Jira and Confluence and make a backlog w/ user stories, decide who’s doing what.
+2. **Planning:** ~~As part of the SCRUM methodology, set up Jira and Confluence and make a backlog w/ user stories,~~ decide who’s doing what.
 3. **Develop:** Select the Architecture and relevant technologies, learn required skills, and develop the Android App.
 4. **Test:** Test the App.
 5. **Deploy:** Put App on Google Play for the whole world to access.
@@ -29,3 +30,25 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
+
+### Running Tasks Backlog:
+**Backend (Awwab Ahmed & Ammar)**
+*To be finished by January 8 isA*
+- Fine-tune new T5 model for masking multiple tokens
+- Use Farasa spellchecker's Python API to implement Part 1 of the Dotless Algorithm in Python
+
+**Frontend (Awwab Azam):**
+*To be finished by January 8 isA*
+- Implement switching between different screens for letters, numbers, special characters etc.
+- Add suggestions bar and text field for fullscreen mode
+- Implement fullscreen (aka "sideways") mode
+- Improve aesthetic appearance
+
+**Once above is completed:**
+- Download T5 model in TFLite format and spellchecker in .jar format
+- Basically translate Python implementation of the algorithm into Java
+- Link to frontend
+
+### Images
+![Dotless Algorithms](assets/DotlessAlgorithms.png)
+![Dotless Algorithms](assets/AndroidFrontend.jpeg)
