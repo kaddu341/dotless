@@ -28,7 +28,7 @@ setup(
     ],
     
     extras_require={
-        "dev": [],
+        "dev": ["pytest", "twine"],
     },
     python_requires=">=3.11",
     package_data={
