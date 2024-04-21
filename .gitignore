@@ -68,9 +68,6 @@ data/
 dotless.code-workspace
 __pycache__
 
-arwiki.wordlist
-
-roots.txt
 
 *.conda/
 
@@ -78,3 +75,12 @@ AR*
 
 
 AR-dotless-medium-mixed-tokenized-arrow.zip
+
+
+!arwiki.wordlist
+!roots.txt
+
+build/
+dist/
+*.egg-info/
+*.__pycache__
