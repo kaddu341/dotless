@@ -3,14 +3,18 @@ import numpy as np
 from tashaphyne.stemming import ArabicLightStemmer
 from transformers import AutoTokenizer, TFAutoModelForMaskedLM
 import tensorflow as tf
-from pprint import pprint 
+from pprint import pprint as pprint
 
-with open("roots.txt", 'r') as file:
-    rootlist = set(file.read().split())
+def load_rootlist():
+    with open("roots.txt", 'r') as file:
+        rootlist = set(file.read().split())
+    return rootlist
 
-with open("arwiki.wordlist", 'r') as file:
-    arDictionary = set(file.read().split())
-    
+def load_arwiki():
+    with open("arwiki.wordlist", 'r') as file:
+        arDictionary = set(file.read().split())
+    return arDictionary
+
 
 def get_candidate_word_probabilities(input_text, candidate_words, tokenizer, model, ArListem):
     tokenized_text = tokenizer.tokenize(input_text)
@@ -55,11 +59,11 @@ def get_candidate_word_probabilities(input_text, candidate_words, tokenizer, mod
 
     return candidate_probabilities
 
-def generate_probabilties(example, gen_prob_func=get_candidate_word_probabilities):
+def generate_probabilties(example, tokenizer, model, ArListem, gen_prob_func=get_candidate_word_probabilities):
     input_text = example["Masked"]
     candidates = example["Options"]
 
-    word_probabilities = gen_prob_func(input_text, candidates)
+    word_probabilities = gen_prob_func(input_text, candidates, tokenizer, model, ArListem)
 
     sorted_words = sorted(word_probabilities, key=word_probabilities.get, reverse=True)
     if len(sorted_words) > 0:
@@ -70,11 +74,11 @@ def generate_probabilties(example, gen_prob_func=get_candidate_word_probabilitie
 
     return word_probabilities, sorted_words, most_probable_word
 
-def single_test(specific_string=None, specific_index=None, num_eg=None, gen_prob_func=get_candidate_word_probabilities, example = None):
+def single_test(tokenizer, model, ArListem, specific_string=None, specific_index=None, num_eg=None, gen_prob_func=get_candidate_word_probabilities, example = None):
     if example != None: example = example
     #if num_eg != None: example = dataset['train'][indicies[num_eg]]
     if specific_string != None: example = mask_word(specific_string, specific_index)
-    word_probabilities, sorted_words, most_probable_word = generate_probabilties(example, gen_prob_func)
+    word_probabilities, sorted_words, most_probable_word = generate_probabilties(example, tokenizer, model, ArListem, gen_prob_func)
     print("Length of words:", len(sorted_words))
     for word in sorted_words:
         probability = word_probabilities[word]
