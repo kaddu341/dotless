@@ -86,11 +86,9 @@ def parse_dotless_text(text):
     
   return dotless_string
 
-def mask_random_word(text):
-
+def mask_word(text, index=None):
     words = text.split()
-
-    index = random.randint(0, len(words) - 1)  # Generate a random index for each sentence
+    if index == None: index = random.randint(0, len(words) - 1)
 
     for i, word in enumerate(words):
         if i == index:
@@ -101,5 +99,5 @@ def mask_random_word(text):
             masked = (modified_string)
             options = (variations)
             targets = (word_to_replace)
-    
+
     return {"Masked": masked, "Options": options, "Target": targets}
