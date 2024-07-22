@@ -74,7 +74,7 @@ def generate_probabilties(example, tokenizer, model, ArListem, gen_prob_func=get
 
     return word_probabilities, sorted_words, most_probable_word
 
-def single_test(tokenizer, model, ArListem, specific_string=None, specific_index=None, num_eg=None, gen_prob_func=get_candidate_word_probabilities, example = None):
+def single_test_p(tokenizer, model, ArListem, specific_string=None, specific_index=None, num_eg=None, gen_prob_func=get_candidate_word_probabilities, example = None):
     if example != None: example = example
     #if num_eg != None: example = dataset['train'][indicies[num_eg]]
     if specific_string != None: example = mask_word(specific_string, specific_index)
@@ -97,9 +97,37 @@ def single_test(tokenizer, model, ArListem, specific_string=None, specific_index
             found = True
             sucess_level = i
             break
-    if not found: print("Not found.")
+    if not found: 
+        sucess_level = -1
+        print("Not found.")
     
     pprint(example)
     # print("Masked:", example["Masked"])
     # print("Options:", example["Options"])
     # print("Target:", example["Target"])
+    
+    return word_probabilities, sorted_words, most_probable_word, sucess_level
+
+
+def single_test(tokenizer, model, ArListem, specific_string=None, specific_index=None, num_eg=None, gen_prob_func=get_candidate_word_probabilities, example = None):
+    if example != None: example = example
+    #if num_eg != None: example = dataset['train'][indicies[num_eg]]
+    if specific_string != None: example = mask_word(specific_string, specific_index)
+    word_probabilities, sorted_words, most_probable_word = generate_probabilties(example, tokenizer, model, ArListem, gen_prob_func)
+    for word in sorted_words:
+        probability = word_probabilities[word]
+
+
+    found = False
+    for i in range(len(sorted_words)):
+        if sorted_words[i] == example["Target"]:
+            found = True
+            sucess_level = i
+            break
+    if not found: 
+        sucess_level = -1
+    # print("Masked:", example["Masked"])
+    # print("Options:", example["Options"])
+    # print("Target:", example["Target"])
+    
+    return word_probabilities, sorted_words, most_probable_word, sucess_level
