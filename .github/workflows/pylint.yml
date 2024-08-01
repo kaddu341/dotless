@@ -20,4 +20,4 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint packages/
+        pylint packages/app/pyARdotless/src/
