@@ -18,8 +18,8 @@ The original Arabic script did not use dots to differentiate between letters. Fo
 
 ## Specifications
 Technical specifications will be refined as we move on with the project In Shaa Allah, but for now:
-- App Dev & UI: Android Studio w/ Kotlin/Java
-- ML model: Python, using TensorFlow and Keras
+- App Dev & UI: Android Studio w/ Kotlin & Java
+- ML model: ~~Python, using TensorFlow and Keras~~  For the alpha release, the app uses a statistical n-gram model trained on an Arabic corpus
 
 ## Milestones
 1. **Idea:** Through “Design Thinking”, produce a mockup and validate the concept.
@@ -31,8 +31,9 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
+**Update: Due to various reasons (chiefly schoolwork) we're slightly behind schedule; however we have the alpha version working and hope to have it on the Play Store soon!**
 
-### Running Tasks Backlog:
+### Running Tasks Backlog (to be updated):
 **Backend (Awwab Ahmed & Ammar)**
 *To be finished by January 8 isA*
 - Fine-tune new T5 model for masking multiple tokens
