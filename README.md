@@ -51,6 +51,6 @@ Technical specifications will be refined as we move on with the project In Shaa 
 - Translate Python implementation of the algorithm into Java
 - Link to frontend
 
-### Images
-![Dotless Algorithms](assets/DotlessAlgorithms.png)
-![Dotless Algorithms](assets/AndroidFrontend.jpeg)
+### Demo
+https://github.com/user-attachments/assets/1e3ebea2-b512-436a-a077-061a2f3b2d2e
+
