@@ -2,12 +2,16 @@
 # dotless
 **Repository for the "Dotless" AI-powered mobile keyboard for the Arabic script.**
 
+https://huggingface.co/dot-ammar
+https://github.com/kaddu341/dotless-android
+
 *Summary:*
 "Dotless" is a vision for a mobile keyboard app for the Arabic script which reduces the number of keys by using AI to differentiate between similar letters (e.g. ج،ح،خ) based on context, thereby drastically simplifying the layout and making it easier for users to type.
 
 ## Overview
 The original Arabic script did not use dots to differentiate between letters. For example, ج،ح،خ were all written as ح. However, the Arabs at the time of the Prophet ﷺ were masters of the language to such an extent that they could figure out which letter it was based only on the context. If humans could do this 1400 years ago, why can’t AI do the same thing? Currently, the Arabic script has 29 letters, and mobile touchscreen keyboards have to incorporate all of them, which makes typing complicated and relatively difficult. However, if only symbols without dots are used, and an AI engine automatically places dots based on context etc. then only 17 symbols require keyboard buttons (a reduction of 12 buttons) which dramatically simplifies the keyboard and thus makes typing easier. Even though it may take some time to adjust to the new keyboard, humans naturally crave ease and it is expected that they would gravitate towards this idea.
 
+*Sample Mockup*
 !['Dotless' Mockup for Android keyboard](assets/ProjectMockup_1.png)
 
 ## Goal
@@ -15,8 +19,8 @@ The original Arabic script did not use dots to differentiate between letters. Fo
 
 ## Specifications
 Technical specifications will be refined as we move on with the project In Shaa Allah, but for now:
-- App Dev & UI: Android Studio w/ Kotlin/Java
-- ML model: Python, using TensorFlow and Keras
+- App Dev & UI: Android Studio w/ Kotlin & Java
+- ML model: ~~Python, using TensorFlow and Keras~~  For the alpha release, the app uses a statistical n-gram model trained on an Arabic corpus
 
 ## Milestones
 1. **Idea:** Through “Design Thinking”, produce a mockup and validate the concept.
@@ -28,8 +32,9 @@ Technical specifications will be refined as we move on with the project In Shaa 
 7. **Other languages:** Update capabilities for other languages that also use the Arabic script such as Urdu, Persian, Kurdish, etc.
 
 *Ideally we can have the first version on Google Play by the end of the Spring Semester 2024 In Shaa Allah.*
+**Update: Due to various reasons (chiefly schoolwork) we're slightly behind schedule; however we have the alpha version working and hope to have it on the Play Store soon!**
 
-### Running Tasks Backlog:
+### Running Tasks Backlog (to be updated):
 **Backend (Awwab Ahmed & Ammar)**
 *To be finished by January 8 isA*
 - Fine-tune new T5 model for masking multiple tokens
@@ -44,9 +49,9 @@ Technical specifications will be refined as we move on with the project In Shaa 
 
 **Once above is completed:**
 - Download T5 model in TFLite format and spellchecker in .jar format
-- Basically translate Python implementation of the algorithm into Java
+- Translate Python implementation of the algorithm into Java
 - Link to frontend
 
-### Images
-![Dotless Algorithms](assets/DotlessAlgorithms.png)
-![Dotless Algorithms](assets/AndroidFrontend.jpeg)
+### Demo
+https://github.com/user-attachments/assets/1e3ebea2-b512-436a-a077-061a2f3b2d2e
+
