@@ -130,4 +130,4 @@ def single_test(tokenizer, model, ArListem, specific_string=None, specific_index
     # print("Options:", example["Options"])
     # print("Target:", example["Target"])
     
-    return word_probabilities, sorted_words, most_probable_word, sucess_level
+    return example, word_probabilities, sorted_words, most_probable_word, sucess_level

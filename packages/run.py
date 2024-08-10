@@ -11,5 +11,3 @@ test_string = 'أهلا أنا إسمي عمار'
 index = 1
 
 single_test(tokenizer, model, ArListem, specific_string=test_string, specific_index=index, gen_prob_func=get_candidate_word_probabilities)
-
-

@@ -5,7 +5,7 @@ with open("app/README.md", "r") as f:
 
 setup(
     name="pyARdotless",
-    version="0.0.10",
+    version="0.0.3",
     description="ML utils library for predicting Arabic diacritics.",
     package_dir={"": "app"},
     packages=find_packages(where="app"),
