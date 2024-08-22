@@ -53,5 +53,5 @@ Technical specifications will be refined as we move on with the project In Shaa 
 - Link to frontend
 
 ### Demo
-// https://github.com/user-attachments/assets/1e3ebea2-b512-436a-a077-061a2f3b2d2e
+https://github.com/user-attachments/assets/1e3ebea2-b512-436a-a077-061a2f3b2d2e
 
