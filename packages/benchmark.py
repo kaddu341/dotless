@@ -4,8 +4,6 @@ import enum
 from tqdm import tqdm
 
 
-
-
 # 6 models
 models = [
     "CAMeL-Lab/bert-base-arabic-camelbert-mix",
@@ -32,19 +30,20 @@ arabic_sentences = [
 
 benchList = np.zeros(shape = (6, 10))
 
-for i, model_name in tqdm(enumerate(models)):
+for i, model_name in enumerate(tqdm(models)):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = TFAutoModelForMaskedLM.from_pretrained(model_name)
+    print(f"Loading {model_name}...")
     ArListem = ArabicLightStemmer()
-    for j, test_string in tqdm(enumerate(arabic_sentences)):
-        word_probabilities, sorted_words, most_probable_word, sucess_level = single_test(
+    for j, test_string in enumerate(tqdm(arabic_sentences)):
+        word_probabilities, sorted_words, most_probable_word, sucess_level, _ = single_test(
                 tokenizer,
                 model,
                 ArListem,
                 specific_string=test_string,
                 gen_prob_func=get_candidate_word_probabilities,
             )
-        
+        #word_probabilities, sorted_words, most_probable_word, sucess_level
         benchList[i, j] = sucess_level
         
 # average sucess level
